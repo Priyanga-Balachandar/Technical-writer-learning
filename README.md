@@ -20,3 +20,6 @@ This repository is created to learn modern technical writing tools, documentatio
 - Maintenance manuals
 - Project documentation
 - Safety procedures
+## Current Learning
+
+Currently learning Git and GitHub for technical documentation workflows.
