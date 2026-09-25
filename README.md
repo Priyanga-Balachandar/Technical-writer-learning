@@ -1,2 +1,13 @@
-# Technical-writer-learning
-A practical learning repository for technical writing, documentation, and version control.
+# Technical Writer Learning
+
+This repository is created to learn modern technical writing tools, documentation workflows, and version control.
+
+## Learning Areas
+
+- Git and GitHub
+- Markdown
+- Confluence
+- Jira
+- MadCap Flare
+- XML and DITA
+- API Documentation
