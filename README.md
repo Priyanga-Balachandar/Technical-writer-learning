@@ -23,3 +23,6 @@ This repository is created to learn modern technical writing tools, documentatio
 ## Current Learning
 
 Currently learning Git and GitHub for technical documentation workflows.
+## Documentation Workflow
+
+Requirements → Draft → Technical Review → Editing → Quality Review → Approval → Release
