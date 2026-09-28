@@ -16,7 +16,19 @@ Before starting the installation, verify the following:
 > [!WARNING]
 > Ensure that the power supply is switched OFF before connecting or disconnecting hardware.
 
-## 3. Installation Steps
+## 3. Safety Precautions
+
+Before starting the installation:
+
+> [!WARNING]
+> Ensure that the system is completely disconnected from the power supply before connecting or disconnecting hardware.
+
+- Verify that the installation area is clean and free from obstructions.
+- Inspect all cables and connectors for damage.
+- Verify that the required protective equipment is available.
+- Confirm that the power supply rating matches the specified requirements.
+  
+## 4. Installation Steps
 
 1. Inspect all components for physical damage.
 2. Position the equipment at the designated location.
@@ -25,7 +37,7 @@ Before starting the installation, verify the following:
 5. Switch ON the system.
 6. Verify the system status indicators.
 
-## 4. Verification
+## 5. Verification
 
 Verify the following:
 
@@ -34,7 +46,7 @@ Verify the following:
 - [ ] System status is normal
 - [ ] Required output is available
 
-## 5. Technical Specifications
+## 6. Technical Specifications
 
 | Parameter | Specification | Unit |
 |---|---:|---|
