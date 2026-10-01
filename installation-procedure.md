@@ -42,9 +42,9 @@ Before starting the installation:
 Verify the following:
 
 - [ ] Power indicator is ON
-- [ ] Communication link is established
+- [x] Communication link is established
 - [ ] System status is normal
-- [ ] Required output is available
+- [x] Required output is available
 
 ## 6. Technical Specifications
 
