@@ -26,3 +26,7 @@ Currently learning Git and GitHub for technical documentation workflows.
 ## Documentation Workflow
 
 Requirements → Draft → Design Review → Technical Review → Editing → Quality Review → Approval → Release
+
+## Documentation Update
+
+This section describes the latest documentation changes made to improve clarity, consistency, and usability for end users.
