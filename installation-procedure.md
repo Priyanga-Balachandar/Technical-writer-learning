@@ -53,3 +53,15 @@ Verify the following:
 | Operating Frequency | 200 | MHz |
 | Input Voltage | 28 | V |
 | Weight | 1.5 | kg |
+
+# Reference Documents
+
+For system installation, refer to the
+[Installation Manual](installation-manual.pdf).
+
+For system operation, refer to the
+[User Manual](user-manual.pdf).
+
+## System Diagram
+
+![PSCS system block diagram](pscs-block-diagram.png)
